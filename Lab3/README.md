@@ -20,7 +20,8 @@ In this string the following conversions are done:
     * '8' → '3'
     * '9' → '4'
 
-The program is continuous and terminates when receives as input a string of length one consisting of the character 'Q' or 'q'.<br>
+The program is continuous and terminates when receives as input a string of length one, consisting of the character 'Q' or 'q'.
+
 *The full steps of the program are described in the [report](https://github.com/chrisbetze/Embedded-System-Design/blob/25cee5b9eef1aebe16e5c4db56757fa778e92c3c/Lab3/report.pdf)*.
 
 ## Part 2: Communication of guest and host machines through a serial port
