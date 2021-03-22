@@ -17,4 +17,4 @@
 * The final image of the kernel is at [linux-source-3.16](https://github.com/chrisbetze/Embedded-System-Design/tree/main/Lab5/linux-source-3.16) directory.
 * Finally, we write a program in C (*test.c*), which uses the new system call, in order to check its proper operation.
 
-*The full steps of the new kernel building with the new system call are described in detail in the [report](https://github.com/chrisbetze/Embedded-System-Design/blob/11f779ed38955b4ee8fa71162fccc37242edda65/Lab5/report.pdf).*
+*The full steps of the new kernel building along with the new system call, are described in detail in the [report](https://github.com/chrisbetze/Embedded-System-Design/blob/11f779ed38955b4ee8fa71162fccc37242edda65/Lab5/report.pdf).*
