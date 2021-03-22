@@ -5,7 +5,7 @@
     * The first has **armel** (arm EABI little-endian) architecture.
     * The second has **armhf** (arm hard-float) architecture.
 * We install the custom cross-compiler building toolchain **crosstool-ng**.
-* We install the pre-compiled building toolchain **linaro**
+* We install the pre-compiled building toolchain **linaro**.
 * We compare the two different cross-compilers by testing some exetutables in the host machine and in the above virtual machines.
 
 *For more information about the installation steps and the results of the two different cross-compilers, go to [report](https://github.com/chrisbetze/Embedded-System-Design/blob/11f779ed38955b4ee8fa71162fccc37242edda65/Lab5/report.pdf).*
