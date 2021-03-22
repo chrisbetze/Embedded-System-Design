@@ -5,5 +5,5 @@ Laboratory exercises on cards with ARM, FPGA and sensors
 #### Lab1: Loop Transformations - Design Space Exploration
 #### Lab2: Dynamic Data Type Refinement
 #### Lab3: ARM Assembly
-#### Lab4: High-Level Synthesis on FPGAs
+#### Lab4: High-Level Synthesis for FPGAs
 #### Lab5: Embedded Linux - Crosscompiling - RTOS
