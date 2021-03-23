@@ -17,8 +17,8 @@ We apply the following transformations to the code to **reduce time execution**.
 * Data Reuse
 
 ## Design Space Exploration
-* In the optimized code, we apply Design Space Exploration, considering a square block of dimensions Β, in order to find the optimal size block B.
-* In the optimized code, we apply Design Space Exploration, considering a rectangular block of dimensions Βx-By, in order to find the optimal size block Bx-By.
+* In the optimized code, we apply Design Space Exploration, considering a square block of **dimensions Β**, in order to find the optimal size block B.
+* In the optimized code, we apply Design Space Exploration, considering a rectangular block of **dimensions Βx-By**, in order to find the optimal size block Bx-By.
 
 ## Results
 We display the results of previous tasks in one **boxplot** diagram and we compare-analyze the experimental results that we receive. All execution time calculations are performed with `python scripts`.<br>
