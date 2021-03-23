@@ -8,4 +8,4 @@ Laboratory exercises on cards with ARM, FPGA and sensors
 #### Lab4: High-Level Synthesis for FPGAs
 #### Lab5: Embedded Linux - Crosscompiling - RTOS
 
-Collaborator: [George Giannios](https://github.com/gianniosgeorgios)
+*Collaborator: [George Giannios](https://github.com/gianniosgeorgios)*
