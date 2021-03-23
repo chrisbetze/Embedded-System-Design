@@ -29,7 +29,7 @@ We display the results of previous tasks in one **boxplot** diagram and we compa
 [Orio](https://brnorris03.github.io/Orio/) is a Python framework for transformation and automatically tuning the performance of codes written in different source and target languages.
 
 ## Code Optimization
-We use Orio tool to optimize *tables.c* code, of which the function involves simple accesses and operations with tables. For each of the following algorithms, we perform Design Space Exploration to find the optimal loop **unrolling factor**.
+We use Orio tool to optimize `tables.c` code, of which the function involves simple accesses and operations with tables. For each of the following algorithms, we perform Design Space Exploration to find the optimal loop **unrolling factor**.
 * Exhaustive
 * Randomsearch
 * Simplex
