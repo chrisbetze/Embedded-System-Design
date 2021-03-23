@@ -30,7 +30,7 @@ The program is continuous and terminates when receives as input a string of leng
 Qemu provides several features to support serial port to virtual machine. The obvious option is for the guest machine to use the serial port of host machine. 
 But our pc does not have a serial port, so we use a feature of linux called **pseudoterminal**.
 
-The purpose of the exercise is to create 2 programs, one in **C on the host** machine and one in **ARM on the guest** machine which will communicate via virtual serial port. 
+The purpose of the exercise is to create 2 programs, one in **C on the host** machine and one in **ARM on the guest** machine which will communicate via **virtual serial port**. 
 * The program on the host machine will receive as input a string of size up to 64 characters. 
 * This string will be sent via a serial port to the guest machine. 
 * The guest will answer which is the character of the string with the highest frequency occurrence and how many times it occurred. 
