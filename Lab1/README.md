@@ -21,7 +21,7 @@ We apply the following transformations to the code to **reduce time execution**.
 * In the optimized code, we apply Design Space Exploration, considering a rectangular block of dimensions Βx-By, in order to find the optimal size block Bx-By.
 
 ## Results
-We display the results of previous tasks in one **boxplot** diagram and we compare-analyze the experimental results that we receive. All execution time calculations are performed with `python scripts`.
+We display the results of previous tasks in one **boxplot** diagram and we compare-analyze the experimental results that we receive. All execution time calculations are performed with `python scripts`.<br>
 <img src="https://user-images.githubusercontent.com/50949470/111881616-eb9fb700-89b9-11eb-82d4-efa9826b588b.png" width="600" height=auto>
 
 # Part 2: Automated Code Optimization
